@@ -28,4 +28,10 @@ public class TokenService {
     private Instant dataExpiracao(){
         return LocalDateTime.now().plusHours(2).toInstant(ZoneOffset.of("-03:00"));
     }
+
+    public String getSubject(String tokenJWT){
+        try{
+            var algoritimo = Algorithm.HMAC256("12345678");
+        }
+    }
 }
