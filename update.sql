@@ -279,3 +279,39 @@ alter table tbinstrutores modify column nome varchar(255);
 
     alter table tbaprendizes 
        modify column turma varchar(255);
+
+    alter table tbaprendizes 
+       modify column edv varchar(255);
+
+    alter table tbaprendizes 
+       modify column email varchar(255);
+
+    alter table tbaprendizes 
+       modify column nome varchar(255);
+
+    alter table tbaprendizes 
+       modify column turma varchar(255);
+
+    alter table tbaprendizes 
+       modify column edv varchar(255);
+
+    alter table tbaprendizes 
+       modify column email varchar(255);
+
+    alter table tbaprendizes 
+       modify column nome varchar(255);
+
+    alter table tbaprendizes 
+       modify column turma varchar(255);
+
+    alter table tbaprendizes 
+       modify column edv varchar(255);
+
+    alter table tbaprendizes 
+       modify column email varchar(255);
+
+    alter table tbaprendizes 
+       modify column nome varchar(255);
+
+    alter table tbaprendizes 
+       modify column turma varchar(255);
